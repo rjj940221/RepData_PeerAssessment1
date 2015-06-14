@@ -1,3 +1,7 @@
+#Note
+
+The figures for the *PA1_template.html* are in the *PA1_template_files/figure-html* folder
+
 ## Introduction
 
 It is now possible to collect a large amount of data about personal
